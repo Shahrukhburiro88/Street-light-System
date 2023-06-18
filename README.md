@@ -1,4 +1,5 @@
 # Street-light-System
+#MikroC pro
 sbit LCD_RS at rd4_bit;
 sbit LCD_en at rd5_bit;
 sbit LCD_d7 at rd3_bit;
